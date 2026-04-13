@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Distill — Document-to-Knowledge Extraction" width="100%">
+</p>
+
 # Distill — Document-to-Knowledge Extraction for Claude Code
 
 Transform heavy source documents (DOCX, PDF, meeting transcriptions) into structured markdown knowledge bases optimized for LLM context windows.
